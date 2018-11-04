@@ -1,0 +1,6 @@
+﻿token=NTA4NDg2NDY2ODUxMzA3NTM5.Dr_8qg.iRHXac5gIpLTuycTWdTojASdYfM
+owner=408396389291393025
+prefix= !p
+game= !phelp
+stayinchannel=true
+songinstatus=true 
